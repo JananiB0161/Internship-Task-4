@@ -57,3 +57,5 @@ I love this product	0.50	Positive
 This is terrible	-1.00	Negative
 
 It's okay, nothing special	0.00	Neutral
+
+![task4_output](https://github.com/user-attachments/assets/2cf0f575-2405-4d21-97a9-25290d2a821f)
